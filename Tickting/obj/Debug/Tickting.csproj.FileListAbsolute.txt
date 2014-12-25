@@ -1,0 +1,9 @@
+C:\Users\sanjay\Desktop\Tickting\Tickting\bin\Debug\Tickting.exe.config
+C:\Users\sanjay\Desktop\Tickting\Tickting\bin\Debug\Tickting.exe
+C:\Users\sanjay\Desktop\Tickting\Tickting\bin\Debug\Tickting.pdb
+C:\Users\sanjay\Desktop\Tickting\Tickting\obj\Debug\Tickting.csprojResolveAssemblyReference.cache
+C:\Users\sanjay\Desktop\Tickting\Tickting\obj\Debug\Tickting.Form1.resources
+C:\Users\sanjay\Desktop\Tickting\Tickting\obj\Debug\Tickting.Properties.Resources.resources
+C:\Users\sanjay\Desktop\Tickting\Tickting\obj\Debug\Tickting.csproj.GenerateResource.Cache
+C:\Users\sanjay\Desktop\Tickting\Tickting\obj\Debug\Tickting.exe
+C:\Users\sanjay\Desktop\Tickting\Tickting\obj\Debug\Tickting.pdb
